@@ -63,3 +63,19 @@ Section: Tweaks
 Description: Free Premium AdGuard
 Author: SarahH12099
 Name: AdGuard++
+
+Package: Package:com.Mogyvic.FindUnFollow
+Version: 2.4.3
+Architecture: iphoneos-arm
+Maintainer: lol
+Installed-Size: 136
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: /com.Mogyvic.FindUnFollow_2.4.3_iphoneos-arm.deb
+Size: 264204
+MD5sum: b03c399791755f90373232ba2f6f4e08
+SHA1: 0e4b9a9988ae2732198dc9e45a0a5954043c0951
+SHA256: ea34d153d241ca7c5cf59149dab53d73ce16688b5b61b15da790dfa1fc995274
+Section: Tweaks
+Description: Free premium Findunfollow
+Author: Mogyvic
+Name: FindUnFollow hack

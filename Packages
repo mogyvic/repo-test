@@ -1,80 +1,31 @@
 
-Package: net.hollr2099.1passwordpp
-Version: 1.0.0.0
+Package: Package:com.Mogyvic.FindUnFollow
+Version: 2.4.3
 Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 69
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: /1Password.deb
-Size: 3264
-MD5sum: 43c2053298df94d36253a04181e6ec64
-SHA1: a9f7a910b16b1af540da7edcf7fef4e134035808
-SHA256: 2d38496fd0e0ca9f20a6c5c615819b81ba04cf95f372cd1200f8479e4732a49d
+Maintainer: Mogyvic
+Installed-Size: 
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: /com.Mogyvic.FindUnFollow_2.4.3_iphoneos-arm.deb
+Size: 242826
+MD5sum: da1d812d92db34ea3c3a0fcfe4578efa
+SHA1: 8aab8ac394e7465f11cd46172a94ed90eb9c7ec7
+SHA256: 1a7b96290f2a8d9fa51c63b16c138024cdce5bfbe31fe991f23a3a7ce2635d6e
 Section: Tweaks
-Description: Free Premium 1Password
-Author: SarahH12099
-Name: 1Password++
-
-Package: net.hollr2099.365scorespp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 117
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: /365Scores.deb
-Size: 3736
-MD5sum: 3a0a37d8bccf092c5e5e699aaa0dc31d
-SHA1: a61bcf51eab3734f65d7d163e8e0ac339cb7c11d
-SHA256: 4f2d2b01fddc2b33d516055a2f05a0563a97b12dd9389bfba56df8c3af12237e
-Section: Tweaks
-Description: No ads on 365Scores
-Author: SarahH12099
-Name: 365Scores++
-
-Package: net.hollr2099.accuweatherpp
-Version: 1.0.0.0
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: /AccuWeather.deb
-Size: 4140
-MD5sum: b8bc1eae70df75ec5299dc6a6cc336f2
-SHA1: 85891ea2e4c06d2374072fcc1ad8e76762cb40a4
-SHA256: 0dd1aed23bc9122e007d59984aec1b54901fac75afa4d39b38da31f9d7367807
-Section: Tweaks
-Description: Free Platinum AccuWeather: Weather Radar
-Author: SarahH12099
-Name: AccuWeather++
-
-
-Package: net.hollr2099.adguardpp
-Version: 1.0.0.2
-Architecture: iphoneos-arm
-Maintainer: SarahH12099
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: /AdGuard.deb
-Size: 3910
-MD5sum: 8f18e29a2970ff68516cab42614cd572
-SHA1: c471cae7f56f7a241199b42949512af0953de0b5
-SHA256: f61d54670a2a461cf7b52d6c5009baac43ed5e443672e62f4b5ff037fd2b2613
-Section: Tweaks
-Description: Free Premium AdGuard
-Author: SarahH12099
-Name: AdGuard++
+Description: Free premium Findunfollow
+Author: Mogyvic
+Name: FindUnFollow hack
 
 Package: Package:com.Mogyvic.FindUnFollow
 Version: 2.4.3
 Architecture: iphoneos-arm
-Maintainer: lol
-Installed-Size: 136
+Maintainer: Mogyvic
+Installed-Size: 
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: /com.Mogyvic.FindUnFollow_2.4.3_iphoneos-arm.deb
-Size: 264204
-MD5sum: b03c399791755f90373232ba2f6f4e08
-SHA1: 0e4b9a9988ae2732198dc9e45a0a5954043c0951
-SHA256: ea34d153d241ca7c5cf59149dab53d73ce16688b5b61b15da790dfa1fc995274
+Size: 242826
+MD5sum: da1d812d92db34ea3c3a0fcfe4578efa
+SHA1: 8aab8ac394e7465f11cd46172a94ed90eb9c7ec7
+SHA256: 1a7b96290f2a8d9fa51c63b16c138024cdce5bfbe31fe991f23a3a7ce2635d6e
 Section: Tweaks
 Description: Free premium Findunfollow
 Author: Mogyvic

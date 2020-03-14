@@ -14,3 +14,19 @@ Section: Tweaks
 Description: Free Premium 1Password
 Author: SarahH12099
 Name: 1Password++
+
+Package: net.hollr2099.365scorespp
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Maintainer: SarahH12099
+Installed-Size: 117
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: /365Scores.deb
+Size: 3736
+MD5sum: 3a0a37d8bccf092c5e5e699aaa0dc31d
+SHA1: a61bcf51eab3734f65d7d163e8e0ac339cb7c11d
+SHA256: 4f2d2b01fddc2b33d516055a2f05a0563a97b12dd9389bfba56df8c3af12237e
+Section: Tweaks
+Description: No ads on 365Scores
+Author: SarahH12099
+Name: 365Scores++

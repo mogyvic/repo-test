@@ -5,12 +5,12 @@ Architecture: iphoneos-arm
 Maintainer: Mogyvic
 Installed-Size: 
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: /com.Mogyvic.FindUnFollow_2.4.3_iphoneos-arm.deb
-Size: 242826
-MD5sum: da1d812d92db34ea3c3a0fcfe4578efa
-SHA1: 8aab8ac394e7465f11cd46172a94ed90eb9c7ec7
-SHA256: 1a7b96290f2a8d9fa51c63b16c138024cdce5bfbe31fe991f23a3a7ce2635d6e
+Filename: /com.salim.s89_2.4.3_iphoneos-arm.deb
+Size: 242862
+MD5sum: 9236438d5e547a9dbf704e7222b91e92
+SHA1: f891afad5080cf233d3f8781036de3925000ece1
+SHA256: 708e39a3c55ccbc5f64dee5291d18da29e899f4ef1a71a37d1ae86149d5ebbd2
 Section: Tweaks
 Description: Free premium Findunfollow
 Author: Mogyvic
-Name: FindUnFollow hack
+Name: FindUnFollow Hack
